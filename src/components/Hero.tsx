@@ -12,7 +12,11 @@ import {
   ArrowUpRight
 } from 'lucide-react';
 import { personalInfo } from '../data';
+<<<<<<< HEAD
 import profileImage from '../assets/images/dr_ranjith_mari_profile_1783234829068.jpg';
+=======
+import profileImage from '../assets/images/dr_ranjith_mari_profile_v2.jpg';
+>>>>>>> 4bb2386 (first commit)
 
 export default function Hero() {
   const handleScrollTo = (id: string) => {

@@ -1,8 +1,12 @@
 import { motion } from 'motion/react';
 import { Award, GraduationCap, Globe, BookOpen, CheckCircle } from 'lucide-react';
 import { personalInfo, academicMilestones } from '../data';
+<<<<<<< HEAD
 import profileImage from '../assets/images/dr_ranjith_mari_profile_1783234829068.jpg';
 
+=======
+import profileImage from '../assets/images/dr_ranjith_mari_profile_v2.jpg';
+>>>>>>> 4bb2386 (first commit)
 export default function About() {
   return (
     <section id="about" className="py-24 relative bg-white overflow-hidden">
